@@ -2,7 +2,10 @@
 # Introduccion
 Este dataset contiene datos de cuanta energia se produce a partir de diferentes fuentes, cuenta con datos de preccios y la carga total desde el 2015 hasta el 2018.
  Al comprender las relaciones entre estos factores, podremos anticipar con mayor precisión la demanda energética, lo que permitirá optimizar la planificación de la producción y distribución de energía, y así lograr una gestión más eficiente de los recursos. 
- Teniendo en cuenta estos datos tengo las siguientes hipotesis. 
+  
+ Teniendo en cuenta estos datos ¿cómo podemos predecir mejor la generación de energia renovable?
+ 
+ Me adentrare explorando el contexto y los datos que tenemos en principio inicio con las siguientes hipotesis. 
 
 - La primera teoria es que la energia solar es la energia que mas se consume dentro de las renovables y dentro de las fosiles es el gas ya que los avances tecnológicos han permitido una mayor eficiencia en la captación y conversión de esta energía.
 
